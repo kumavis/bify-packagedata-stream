@@ -1,0 +1,11 @@
+{
+  "name": "bify-packagedata-stream",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "through2": "^3.0.0",
+    "module-name-from-path": "git+https://git@github.com/kumavis/module-name-from-path.git",
+    "resolve-package-path": "^1.2.7"
+  }
+}
